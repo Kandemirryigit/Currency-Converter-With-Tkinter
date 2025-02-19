@@ -8,5 +8,5 @@
 <hr/>
 
 <h1>How Works?</h1>
--Firstly you should write how much money you wanna convert,Secondly you should choose your money's currency thirdly you should choose which currecny you wanna convert your money and finally if you click converter you can see the result.
+-Firstly you should write how much money you wanna convert,Secondly you should choose your money's currency thirdly you should choose which currency you wanna convert your money and finally if you click convert button you can see the result.
 
